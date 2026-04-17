@@ -1,0 +1,14 @@
+{
+  "name": "ai-duo-collab",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "@google/generative-ai": "latest",
+    "openai": "latest",
+    "dotenv": "latest",
+    "express": "latest"
+  },
+  "scripts": {
+    "start": "node index.js"
+  }
+}
