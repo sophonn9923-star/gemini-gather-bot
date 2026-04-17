@@ -1,13 +1,13 @@
 {
-"name": "gemini-gather-bot",
-"version": "1.0.0",
-"main": "index.js",
-"scripts": {
-"start": "node index.js"
-},
-"dependencies": {
-"@gathertown/gather-game-client": "latest",
-"@google/generative-ai": "latest",
-"dotenv": "latest"
-}
+  "name": "gemini-gather-bot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@gathertown/gather-game-client": "latest",
+    "@google/generative-ai": "latest",
+    "dotenv": "latest"
+  }
 }
